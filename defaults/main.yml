@@ -1,0 +1,6 @@
+---
+# defaults file for ansible_aur_install
+
+# Change this value to change the install location, otherwise we'll use what's
+# set in ansible.cfg
+library_path: /usr/share/my_modules/

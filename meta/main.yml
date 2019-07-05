@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Victor Mendonca
+  description: A role to install the ansible-aur module.
+  company: GeekIT Consulting Inc. 
+  license: license (MIT)
+  min_ansible_version: 2.4
+  platforms:
+  - name: ArchLinux
+    versions:
+    - all
+  galaxy_tags:
+    - aur
+    - ansible-aur
+    - archlinux
+    - arch
