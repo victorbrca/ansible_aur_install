@@ -15,7 +15,7 @@ Role Variables
 
 You can configure the module install directory by changing the value of `library_path` in `defaults/main.yml`. 
 
-The default install location is set to `/usr/share/my_modules/`.
+The default install location is set to `/usr/share/ansible/plugins/modules`.
 
 Dependencies
 ------------
